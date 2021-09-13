@@ -13,3 +13,10 @@ A _castaway coder_ who just loves to code. Not necesarily good at it, but it's s
 - 🌱 I’m currently learning *Spring Boot and its fabulous eco-system*
 - 💬 Ask me about - TestNG and Selenium Grid 3
 - ⚡ Fun fact: I used to define myself as _Always wanted to be a developer, but ended up being a QA._ It took me a while to realise that the best way to be a developer is by being a QA.
+
+You can find me on
+- LinkedIn -> [here](https://www.linkedin.com/in/krmahadevan/)
+- Stackoverflow -> [here](https://stackoverflow.com/users/679824/krishnan-mahadevan)
+- My Technical blog -> [here](https://rationaleemotions.com)
+- My random personal blah blah -> [here](http://wakened-cognition.blogspot.com/)
+- My Opensource libraries built by me -> [here](https://github.com/orgs/RationaleEmotions/repositories)
